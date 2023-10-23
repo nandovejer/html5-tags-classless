@@ -44,4 +44,5 @@ Refer to [this list of HTML elements on MDN](https://developer.mozilla.org/en-US
 
 Distributed under the MIT License © [Nando Muñoz](https://github.com/nandovejer)
 
-
+---
+This project is a fork of [html5-elements-tester](https://github.com/alexandersandberg/html5-elements-tester) created by   [Alexander Sandberg](https://github.com/alexandersandberg/).
