@@ -1,14 +1,14 @@
 {
-  "name": "html5-elements-tester",
-  "version": "1.1.7",
-  "description": "A test page containing most of the HTML5 elements that you'll ever need. Useful for testing CSS resets or CSS frameworks.",
+  "name": "html5-tags-classless",
+  "version": "1.0.0",
+  "description": "A test page containing most of the HTML5 tags that you'll ever need. Useful for testing CSS frameworks Classless.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexandersandberg/html5-elements-tester.git"
+    "url": "git://github.com/nandovejer/html5-tags-classless.git"
   },
   "keywords": [
     "html",
@@ -17,12 +17,18 @@
     "testing-tool",
     "tester",
     "template",
-    "kitchen-sink"
+    "kitchen-sink",
+    "classless",
+    "css"
   ],
-  "author": "Alexander Sandberg <hi@alexandersandberg.com> (https://alexandersandberg.com)",
+  "author": "Nando Muñoz (https://soynando.com)",
+  "contributors": [
+    "Original author: Alexander Sandberg <hi@alexandersandberg.com> (https://alexandersandberg.com)",
+    "Nando Muñoz (https://soynando.com)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexandersandberg/html5-elements-tester/issues"
+    "url": "https://github.com/nandovejer/html5-tags-classless.git"
   },
-  "homepage": "https://github.com/alexandersandberg/html5-elements-tester#readme"
+  "homepage": "https://github.com/nandovejer/html5-tags-classless.gitr#readme"
 }

@@ -1,17 +1,8 @@
-# HTML5 elements tester
+# HTML5 tags tester of classless css frameworks
+A test page containing most of the HTML5 tags that you'll ever need. Useful for testing CSS frameworks Classless.
 
-A test page containing most of the HTML5 elements that you'll ever need. Useful for testing CSS resets or CSS frameworks.
 
-Since v1.1.0 now also including the option to *preview popular CSS resets and CSS frameworks*, as well as easily including *your own custom CSS* by pasting a direct link to it.
 
-If your favorite reset or framework is missing, please open an issue about it, and I'll add it to the list!
-
-## Usage
-### Copy & Paste
-Copy elements directly from `index.html` into your own documents.
-
-### Download
-Download `index.html`, include whatever resource you need to test (e.g. your CSS), and open the file in your preferred browser.
 
 ## Supported elements
 Refer to [this list of HTML elements on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) for more details of each element.
@@ -45,51 +36,12 @@ Refer to [this list of HTML elements on MDN](https://developer.mozilla.org/en-US
 
 ## Supported resets and frameworks
 
-### Resets
-* [Eric Meyer's 2.0](https://meyerweb.com/eric/tools/css/reset/)
-* [HTML5 Doctor](https://html5doctor.com/html-5-reset-stylesheet/)
-* [minireset.css](https://github.com/jgthms/minireset.css)
-* [normalize.css](https://github.com/necolas/normalize.css)
-* [Reboot](https://getbootstrap.com/docs/4.0/content/reboot/)
-* [Remedy](https://github.com/mozdevs/cssremedy)
-* [sanitize.css](https://github.com/jonathantneal/sanitize.css/)
-* [UndoHTML](https://tantek.com/log/2004/undohtml.css)
-* [universalize.css](https://github.com/alexandersandberg/universalize.css)
-
-### Frameworks
-* [awsm.css](https://github.com/igoradamenko/awsm.css)
-* [Bahunya](https://github.com/Kimeiga/bahunya)
-* [Bootstrap](https://github.com/twbs/bootstrap)
-* [Bulma](https://github.com/jgthms/bulma)
-* [Foundation](https://github.com/zurb/foundation-sites)
-* [Kacit](https://github.com/yegor256/tacit)
-* [Marx](https://github.com/mblode/marx)
-* [Materialize](https://github.com/Dogfalo/materialize)
-* [no-class](https://github.com/davidpaulsson/no-class)
-* [Pure](https://github.com/pure-css/pure/)
-* [Sakura & Sakura Vader](https://github.com/oxalorg/sakura/tree/master/css)
-* [Semantic UI](https://github.com/Semantic-Org/Semantic-UI)
-* [Tachyons](https://github.com/tachyons-css/tachyons)
-* [Tacit](https://github.com/yegor256/tacit)
-* [Tailwind](https://github.com/tailwindcss/tailwindcss)
-* [Tufte](https://github.com/edwardtufte/tufte-css)
 * [Water.css (light) & Water.css (dark)](https://github.com/kognise/water.css)
-* [Writ](https://github.com/programble/writ)
 
-## A project by Alexander Sandberg
 
-Thanks for checking out my project! ❤️
-
-If you want to get in touch, or check out my other work, you can find me here:
-
-- [Website](https://alexandersandberg.com) (alexandersandberg.com)
-- [GitHub](https://github.com/alexandersandberg) (@alexandersandberg)
-- [Twitter](https://twitter.com/alexandberg) (@alexandberg)
 
 ## License
 
-Distributed under the MIT License © [Alexander Sandberg](https://github.com/alexandersandberg)
+Distributed under the MIT License © [Nando Muñoz](https://github.com/nandovejer)
 
----
 
-This project was inspired by [normalize.css's test page](https://github.com/necolas/normalize.css/blob/master/test.html) and [html5-kitchen-sink](https://github.com/dbox/html5-kitchen-sink), and organized according to [W3C's HTML 5.2, §4: The elements of HTML](https://www.w3.org/TR/2017/REC-html52-20171214/semantics.html#semantics).
